@@ -25,7 +25,6 @@ _______________________________________________________________________________
   <br /><br />
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Joke" />
   <br />
-  <img src="https://profile-counter.glitch.me/elB4RTO/count.svg" />
 </div>
 
 <!-- Stats
@@ -38,5 +37,8 @@ _______________________________________________________________________________
 <!-- Repo Pin-Card
 [![Reposiroty](https://github-readme-stats.vercel.app/api/pin?username=elB4RTO&repo=CRAPLOG&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- Profile views
+<!-- Profile views badge
 ![Profile View Counter](https://komarev.com/ghpvc/?username=elB4RTO) -->
+
+<!-- Profile views counter-style
+<img src="https://profile-counter.glitch.me/elB4RTO/count.svg" /> -->
