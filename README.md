@@ -22,9 +22,6 @@ _______________________________________________________________________________
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 |                                                                             |
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯</pre>
-  <br /><br />
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Joke" />
-  <br />
 </div>
 
 <!-- Stats
@@ -42,3 +39,6 @@ _______________________________________________________________________________
 
 <!-- Profile views counter-style
 <img src="https://profile-counter.glitch.me/elB4RTO/count.svg" /> -->
+
+<!-- Daily-joke
+<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Joke" /> -->
