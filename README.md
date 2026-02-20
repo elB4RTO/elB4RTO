@@ -38,8 +38,8 @@ _______________________________________________________________________________
 <!-- Profile views badge
 ![Profile View Counter](https://komarev.com/ghpvc/?username=elB4RTO) -->
 
-<!-- Profile views counter-style -->
-<img width="1px" src="https://profile-counter.glitch.me/elB4RTO/count.svg" />
+<!-- Profile views counter-style
+<img width="100px" src="https://profile-counter.glitch.me/elB4RTO/count.svg" /> -->
 
 <!-- Daily-joke
 <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Joke" /> -->
